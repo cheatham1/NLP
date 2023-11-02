@@ -2,7 +2,7 @@
 
 # Understanding the vaccine stance of Italian tweets and addressing language changes through the COVID-19 pandemic: Development and validation of a machine learning model
 
-Summarise the following text into 3 sentences: “Social media is increasingly being used to express opinions and attitudes toward vaccines. The vaccine stance of social media posts can be classified in almost real-time using machine learning. We describe the use of a Transformer-based machine learning model for analyzing vaccine stance of Italian tweets, and demonstrate the need to address changes over time in vaccine-related language, through periodic model retraining.
+Social media is increasingly being used to express opinions and attitudes toward vaccines. The vaccine stance of social media posts can be classified in almost real-time using machine learning. We describe the use of a Transformer-based machine learning model for analyzing vaccine stance of Italian tweets, and demonstrate the need to address changes over time in vaccine-related language, through periodic model retraining.
 
 The model performed well, achieving an accuracy of 72.8% on the first dataset but showed a 10% drop in accuracy on the second dataset, indicating changes in language over time. However, after retraining the model using data from both datasets, the accuracy improved to 71.3% for the second dataset, highlighting the importance of regular model training to maintain accuracy in categorizing vaccine-related tweets.
 
